@@ -5,7 +5,7 @@ Reclusive and reckless, ambitious and paranoid in equal measures.
 Level 1 Alchemist
 
 Basics:
-- Race: Ratfolk
+- Race: Roder
 - Alignment: Chaotic Neutral
 - Hit die: d8
 - Skills per level: 8 (4 base, INT)
@@ -61,14 +61,14 @@ Proficiencies:
 - Light armor but not shields.
 
 Special:
-- [Ratfolk](https://www.d20pfsrd.com/races/other-races/featured-races/arg-ratfolk/):
+- [Roder](https://messydeci.github.io/Monster-Girl-Campaign-v3.0/races/roder.html):
 	- Size (Small): +1 size bonus to AC, attack rolls; -1 CMB, CMD; +4 Stealth
 	- Speed (Slow): 20ft base speed.
 	- Tinker: Ratfolk gain a +2 racial bonus on Craft (alchemy), Perception, and Use Magic Device checks.
     - Rodent Empathy: Ratfolk gain a +4 racial bonus on Handle Animal checks made to influence rodents.
-    - Swarming: Ratfolk are used to living and fighting communally, and are adept at swarming foes for their own gain and their foes’ detriment. Up to two ratfolk can share the same square at the same time. If two ratfolk in the same square attack the same foe, they are considered to be flanking that foe as if they were in two opposite squares.
+    - Carrion Sense: Like [scent](https://www.d20pfsrd.com/bestiary/rules-for-monsters/universal-monster-rules#TOC-Scent-Ex-) but only for corpses and and creatures at 1/4 HP or less.
     - Darkvision: Ratfolk can see perfectly in the dark up to 60 feet.
-    - Favored Class (Alchemist): Gain an extra discovery every 6 levels.
+    - Favored Class (Alchemist): Gain an extra discovery every 6 levels. [From [Ratfolk](https://www.d20pfsrd.com/races/other-races/featured-races/arg-ratfolk/#Favored_Class_Options)]
 - [Alchemist](https://www.d20pfsrd.com/classes/base-classes/Alchemist/):
 	- Alchemy: Add level to Craft (Alchemy) checks. In addition, an alchemist can use Craft (alchemy) to identify potions as if using detect magic. He must hold the potion for 1 round to make such a check. The alchemist can mix a number of "extracts" that take effect when the Alchemist drinks them. See [Alchemy](https://www.d20pfsrd.com/classes/base-classes/Alchemist/#TOC-Alchemy-Su-) for more information, and the [Formulae List](https://www.d20pfsrd.com/magic/spell-lists-and-domains/formulae-lists-alchemist) for possible effects.
 		- 1: **2** (1 base, INT)
