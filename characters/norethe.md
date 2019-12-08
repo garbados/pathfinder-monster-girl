@@ -3,7 +3,7 @@
 Level 1 Druid (Swarm Monger) + Rogue ([Gestalt](http://www.d20srd.org/srd/variant/classes/gestaltCharacters.htm))
 
 Basics:
-- Race: Harpy
+- Race: Harp
 - Alignment: Chaotic Neutral
 - Hit die: d8
 - Skills per level: 9 (8 base, INT)
@@ -58,9 +58,12 @@ Proficiencies:
 - Light armor, medium armor, and shields ONLY IF padded, leather, or hide.
 
 Special:
-- Harpy:
+- [Harp](https://messydeci.github.io/Monster-Girl-Campaign-v3.0/races/harp.html):
 	- Gifted Linguist: +4 racial bonus on Linguistics checks, and gain 2 languages per rank in Linguistics.
-	- TODO: Fill in from Deci's notes.
+	- Climb: Members of this race have a climb speed of 20 feet, and gain a +8 racial bonus to Climb.
+	- Gliding Wings: Take no damage from falling. Additionally, while in midair, Harps can move up to 5ft horizontally for every 1ft they fall (ex: 6ft dy -> 30ft dx). Can gain lift from updrafts, strong winds, etc.
+	- Natural Attack (Bite) 1d3
+	- Low-light vision: Can see twice as far in dim light. Ex: With a torch that normally illuminates 20ft in darkness, you can see 40ft. See [Vision and Light](https://www.d20pfsrd.com/gamemastering/vision-and-light/) for more details.
 - [Druid](https://www.d20pfsrd.com/classes/core-classes/druid/) ([Swarm Monger](https://www.d20pfsrd.com/classes/core-classes/druid/archetypes/paizo-druid-archetypes/swarm-monger/)):
 	- Fecund Familiar:
 		- As [Arcane Bond](https://www.d20pfsrd.com/classes/core-classes/wizard/#TOC-Arcane-Bond-Ex-or-Sp-), using Druid levels in place of Wizard levels. See [Familiars](https://www.d20pfsrd.com/classes/core-classes/wizard/familiar/) for more info.
@@ -116,8 +119,12 @@ Equipment:
 	- Dagger:
 		- Attack: **+0** (bab, STR)
 		- Damage: 1d4 (STR)
-		- Type Piercing or Slashing
+		- Type: Piercing or Slashing
 		- Note: +2 to Sleight of Hand checks to conceal a dagger on your person.
+	- Bite:
+		- Attack: **+0** (bab, STR)
+		- Damage: 1d3 (STR)
+		- Type: Bludgeoning, Piercing, and Slashing
 - Armor:
 	- Leather: +2 AC, +6 max DEX, no armor check penalty
 	- Shield, light wooden: +1 AC, -1 armor check penalty

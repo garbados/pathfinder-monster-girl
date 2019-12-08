@@ -74,7 +74,7 @@ Proficiencies:
 - Light armor, medium armor, and shields (except tower shields).
 
 Special:
-- Minot:
+- [Minot](../races/minot.md):
 	- Bond to the Land (Forest): +2 dodge bonus to AC in Forest terrain.
 	- Terrain Stride (Forest): Members of this race can move through natural difficult terrain at their normal speed while within Forest terrain. Magically altered terrain affects them normally.
 	- Stubborn: +2 to Will against enchantment (charm or compulsion), and an additional saving throw 1 round into any such effect to end it prematurely.
