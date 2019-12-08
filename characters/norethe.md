@@ -43,7 +43,7 @@ Attributes:
 - CHA: **17, +3**
 
 Skills:
-- [Appraise](https://www.d20pfsrd.com/skills/appraise): **+10** (3 class, 1 rank, 3 familiar, 2 racial, INT)
+- [Appraise](https://www.d20pfsrd.com/skills/appraise): **+8** (3 class, 1 rank, 3 familiar, INT)
 - [Bluff](https://www.d20pfsrd.com/skills/bluff): **+7** (3 class, 1 rank, CHA)
 - [Diplomacy](https://www.d20pfsrd.com/skills/diplomacy): **+7** (3 class, 1 rank, CHA)
 - [Linguistics](https://www.d20pfsrd.com/skills/linguistics): **+9** (3 class, 1 rank, 4 racial, INT)
