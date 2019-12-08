@@ -21,3 +21,7 @@ Scripts:
 
 - [roll.py](./scripts/roll.py): A Python script for evaluating dice-rolling expressions like "1d20+5" or "2d20b1".
 - [roll_attributes.sh](./scripts/roll_attributes.sh): Bash script to roll attributes.
+
+Encounters:
+
+- [Bavlo Spider Hunters (Example)](./encounters/example_bavlo_spider_hunters.md): A trio of example characters come upon a den of spiders who had been attacking travellers.
