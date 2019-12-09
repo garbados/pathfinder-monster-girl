@@ -4,6 +4,7 @@ This repository contains characters and races set in the "Monster Girl" world, h
 
 Characters:
 
+- [Dhutlo](./characters/dhutlo_varanidae.md): Gestalt oracle+brawler Varanidae based on [a different lizard](https://gist.github.com/garbados/fd74dd43ec2561e7d560a0e907880a0d). Haughty acolyte of shaman B'xnamsa K'smani.
 - [Ibba, Travelling Healer](./characters/ibba.md): Gestalt cleric+ranger Minot working as a travelling healer.
 - [Kitch Kubi, Alchemist](./characters/kitch_kubi.md): Equal parts reckless and paranoid, a talented and ambitious alchemist.
 - [Kus-Kus, Trapper](./characters/kus_kus.md): Kobold trapper and bounty hunter who only works when she needs the money.
