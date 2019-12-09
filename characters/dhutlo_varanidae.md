@@ -87,8 +87,8 @@ Special:
 		- 1: 2 known (+cure, +inflict), 4 per day (3 base, CHA)
 			- [Burning Disarm](https://www.d20pfsrd.com/magic/all-spells/b/burning-disarm): Causes a metal object to instantly become red hot. A creature holding the item may attempt a Reflex save to drop it and take no damage (even if it is not their turn), otherwise the hot metal deals 1d4 points of fire damage per caster level (maximum 5d4). If the creature cannot drop the item, they get no saving throw.
 			- [Shield of Faith](https://www.d20pfsrd.com/magic/all-spells/s/shield-of-faith): Grants the subject a +2 deflection bonus to AC, with an additional +1 to the bonus for every six levels you have (maximum +5 deflection bonus at 18th level).
-			- [Cure Light Wounds](https://www.d20pfsrd.com/magic/all-spells/c/cure-light-wounds)\*: Heal 1d8 + 1/lvl (max: +5) points of damage.
-			- [Inflict Light Wounds](https://www.d20pfsrd.com/magic/all-spells/i/inflict-light-wounds)\*: As a melee touch attack, inflict 1d8 + 1/lvl (max: +5) points of damage.
+			- [Cure Light Wounds](https://www.d20pfsrd.com/magic/all-spells/c/cure-light-wounds): Heal 1d8 + 1/lvl (max: +5) points of damage.
+			- [Inflict Light Wounds](https://www.d20pfsrd.com/magic/all-spells/i/inflict-light-wounds): As a melee touch attack, inflict 1d8 + 1/lvl (max: +5) points of damage.
 	- [Revelation](https://www.d20pfsrd.com/classes/base-classes/Oracle/#TOC-Revelation)
 		- Surprising Charge (Ex): Once per day, you can move up to your speed as an immediate action. You can use this ability one additional time per day at 7th level and 15th level.
 - Feats:
