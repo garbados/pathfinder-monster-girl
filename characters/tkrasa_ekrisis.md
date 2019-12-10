@@ -1,4 +1,4 @@
-# T'krasa Etrisis
+# T'krasa Ekrisis
 
 Captain of the Protector Syndicate, T'krasa is a sharp and dutiful warrior. The Clan of the Tadpole has many powerful guardians, and he considers himself among them. When he had just been initiated into the Protectors, just after his Second-Shedding ritual, a whelp not three quarters his age demeaned him and his station. Words long since forgotten compelled T'krasa to fight the whelp, to demonstrate his prowess, but the little one was quick and agile... and bewitched. [Dhutlo](./dhutlo_varanidae.md) stamped the earth and it moved beneath T'krasa, throwing him on his back. His opponent had teeth around his neck before he understood what had happened. Among his clan's clicking guffaws and hissing laughter, T'krasa felt shame.
 
