@@ -1,4 +1,4 @@
-# Dhutlo
+# Dhutlo K'smani
 
 Dhutlo burst into the world strangling a [festering minnow](https://gist.github.com/garbados/fd74dd43ec2561e7d560a0e907880a0d). Eyes not even open, the little lizard cried and roared with life. The minnow was diseased, sick of something never before seen... and never seen again. Dhutlo grew up healthy in a thriving bog-settlement, maturing into the accomplished and haughty acolyte of the clan's shaman B'xnamsa K'smani.
 
@@ -23,7 +23,7 @@ Basics:
 - CMB: +4 (bab, STR)
 - CMD: 16 (10, DEX, STR)
 
-Wealth: 61gp
+Wealth: 56gp
 
 Health:
 - HP: 13 (gain 1d10+CON+1 per level)
@@ -92,7 +92,9 @@ Special:
 	- [Revelation](https://www.d20pfsrd.com/classes/base-classes/Oracle/#TOC-Revelation)
 		- Surprising Charge (Ex): Once per day, you can move up to your speed as an immediate action. You can use this ability one additional time per day at 7th level and 15th level.
 - Feats:
+	- [Combat Reflexes](https://www.d20pfsrd.com/feats/combat-feats/combat-reflexes-combat): Gain extra AOOs per turn equal to your Dex bonus.
 - Traits:
+	- [Guiding Spirit](https://www.d20pfsrd.com/traits/magic-traits/guiding-spirit-magic/): Once per day as a swift action, you can look to your guiding spirit for advice, granting you advantage on the next d20 you roll. If the advantaged roll is a natural 20, you can use this ability an additional time that same day.
 
 Equipment:
 - Weapons:
@@ -108,6 +110,11 @@ Equipment:
 		- Attack: **+4** (bab, DEX)
 		- Damage: 1d6+3 (STR)
 		- Type: Piercing
+	- [Boar Spear](https://www.d20pfsrd.com/equipment/weapons/weapon-descriptions/spear-boar):
+		- Attack: **+5** (bab, 1.5xSTR)
+		- Damage: 1d8+4 (1.5xSTR)
+		- Type: Piercing
+		- Note: If you ready a boar spear against a charge and your attack hits, you get a +2 shield bonus to your AC against that creature until your next turn.
 - Armor:
 	- [Hide Armor](https://www.d20pfsrd.com/equipment/armor/hide): +4 AC, +4 max DEX, -3 armor check penalty
 - Misc.:

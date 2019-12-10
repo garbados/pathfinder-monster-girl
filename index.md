@@ -4,13 +4,15 @@ This repository contains characters and races set in the "Monster Girl" world, h
 
 Characters:
 
-- [Dhutlo](./characters/dhutlo_varanidae.md): Gestalt oracle+brawler Varanidae based on [a different lizard](https://gist.github.com/garbados/fd74dd43ec2561e7d560a0e907880a0d). Haughty acolyte of shaman B'xnamsa K'smani.
+- [B'xnamsa K'smani](./characters/bxnamsa_ksmani.md): Shaman of the Clan of the Tadpole. Dignitary to the spirits and their history everlasting.
+- [Dhutlo K'smani](./characters/dhutlo_varanidae.md): Gestalt oracle+brawler Varanidae based on [a different lizard](https://gist.github.com/garbados/fd74dd43ec2561e7d560a0e907880a0d). Haughty acolyte of B'xnamsa K'smani.
 - [Ibba, Travelling Healer](./characters/ibba.md): Gestalt cleric+ranger Minot working as a travelling healer.
 - [Kitch Kubi, Alchemist](./characters/kitch_kubi.md): Equal parts reckless and paranoid, a talented and ambitious alchemist.
 - [Kus-Kus, Trapper](./characters/kus_kus.md): Kobold trapper and bounty hunter who only works when she needs the money.
 - [Kus-Kus, Sniper](./characters/kus_kus_sniper.md): Kobold trapper, specializing in sniping from the shadows and luring enemies into vicious traps.
 - [Mugris, Guide](./characters/mugris.md): Orcish guide versed in the countless passages of the underdark; disillusioned and betrayed, lays low.
 - [Mugris, Vanguard](./characters/mugris_vanguard.md): Orcish tactician working as a soldier-for-hire; disillusioned and betrayed, lays low.
+- [T'krasa Ekrisis](./characters/tkrasa_ekrisis.md): Captain of the Protector Syndicate among the Clan of the Tadpole. A dutiful, fearsome fighter. Rival of Dhutlo.
 - [Norethe, Swarm Rogue](./characters/norethe.md): Friend of vermin and the eldritch alike, a conniving gestalt druid (swarm monger) and rogue.
 
 Races:

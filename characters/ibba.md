@@ -119,7 +119,7 @@ Equipment:
 		- Type: Bludgeoning
 	- Spiked snarlshield:
 		- Attack: **+4** (bab, STR)
-		- Damage: 1d8+3 (STR); crit 20x2
+		- Damage: 1d6+3 (STR); crit 20x2
 		- Type: Piercing
 		- Note: If your attack is successful, your target drops one item it is carrying of your choice (even if the item is wielded with two hands). If your attack fails by 10 or more, you drop the weapon that you were using to attempt the disarm. (See: [Disarm](https://www.d20pfsrd.com/gamemastering/combat#TOC-Disarm))
 - Armor:
