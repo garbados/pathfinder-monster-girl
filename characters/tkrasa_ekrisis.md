@@ -17,7 +17,9 @@ Basics:
 - Pronouns: he / him
 - Age: 25
 - Appearance:
-	- TODO
+	- Brown scales like dark amber jewels
+	- Bright hazel eyes
+	- 7' tall
 - Alignment: Lawful Good
 - Hit die: 1d10
 - Skills per level: 3 (2, 1 favored class, INT)
