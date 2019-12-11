@@ -29,7 +29,7 @@ Basics:
 	- Common
 	- Draconic
 - CMB: **+7** (bab, STR)
-- CMD: **17** (10, DEX, STR)
+- CMD: **19** (10, bab, DEX, STR)
 
 Wealth: 21gp
 

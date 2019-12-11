@@ -12,8 +12,10 @@ Characters:
 - [Kus-Kus, Sniper](./characters/kus_kus_sniper.md): Kobold trapper, specializing in sniping from the shadows and luring enemies into vicious traps.
 - [Mugris, Guide](./characters/mugris.md): Orcish guide versed in the countless passages of the underdark; disillusioned and betrayed, lays low.
 - [Mugris, Vanguard](./characters/mugris_vanguard.md): Orcish tactician working as a soldier-for-hire; disillusioned and betrayed, lays low.
+- [Skivven Tamog](./characters/skivven_tamog.md): Paladin of the Order of the Light in the Deep.
 - [T'krasa Ekrisis](./characters/tkrasa_ekrisis.md): Captain of the Protector Syndicate among the Clan of the Tadpole. A dutiful, fearsome fighter. Rival of Dhutlo.
 - [Norethe, Swarm Rogue](./characters/norethe.md): Friend of vermin and the eldritch alike, a conniving gestalt druid (swarm monger) and rogue.
+- [Xe](./characters/xe_tamarini.md): Seeker of knowledge, teller of tales; a most cunning and bashful Tamarini.
 
 Races:
 
