@@ -69,7 +69,7 @@ Special:
 - [Monk](https://www.d20pfsrd.com/classes/core-classes/monk/):
 	- [Bonus Feats](https://www.d20pfsrd.com/classes/core-classes/Monk/#TOC-Bonus-Feat):
 		- [Dodge](https://www.d20pfsrd.com/feats/combat-feats/dodge-combat): +1 dodge AC
-	- [Flurry of Blows](https://www.d20pfsrd.com/classes/core-classes/Monk/#TOC-Flurry-of-Blows-Ex-) (-1, -1):
+	- [Flurry of Blows](https://www.d20pfsrd.com/classes/core-classes/Monk/#TOC-Flurry-of-Blows-Ex-) (-1, -1): May make an extra attack, applying a -2 penalty to all attacks made. Any attacks in this series may be made with monk weapons, unarmed strikes, or combat maneuver attempts.
 	- [Stunning Fist](https://www.d20pfsrd.com/classes/core-classes/Monk/#TOC-Stunning-Fist-Ex-): Declare a melee attack as a stun attempt. If it hits, target must make a Fortitude save (DC 10 + 1/2 level + WIS) or be stunned until the start of your next turn. Stunned characters drop what they are holding, can't act, lose DEX to AC, and take -2 to AC.
 	- [Unarmed Strike](https://www.d20pfsrd.com/classes/core-classes/Monk/#TOC-Unarmed-Strike) 1d6
 - [Arcanist](https://www.d20pfsrd.com/classes/hybrid-classes/arcanist/):
