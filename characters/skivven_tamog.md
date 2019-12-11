@@ -3,6 +3,10 @@
 Paladin of the Order of the Light in the Deep.
 
 Basics:
+- Race: Roder
+- Pronouns: they / them
+- Age: --
+- Appearance: --
 - Alignment: Lawful Good
 - Skills per level: 6 (2 base, 1 favored class, INT)
 - Base attack bonus: +1 (gain +1 per level)
