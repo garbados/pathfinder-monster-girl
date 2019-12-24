@@ -68,7 +68,7 @@ Time to first level by class group:
 
 ### Standard Racial Traits
 
-- Ability Score Modifiers (Specialized, 1 RP): Minots are strong and hardy, but aloof and alien with strangers. They gain a +2 racial bonus to Strength and Constitution, and a -2 to Charisma.
+- Ability Score Modifiers (Specialized, 1 RP): Minots are strong and hardy, but can seem curt and severe. They gain a +2 racial bonus to Strength and Constitution, and a -2 to Charisma.
 - Type: Minots are humanoids with the Minotaur subtype. Spells and effects that affect Minotaurs also affect Minots.
 - Size: Medium
 - Base Land Speed: 30ft
@@ -76,7 +76,7 @@ Time to first level by class group:
 
 ### Defense Racial Traits
 
-- Terra Pax (3 RP): Herds maintain relationships with the lands they roam that span thousands of years, and draw great power from their peace with its character. Minots gain a +2 dodge bonus to AC and can move through natural difficult terrain at their normal speed while in their home terrain type. For Yaken this type is Cold; for Elken it is Forest; for Boken it is Plains. This trait functions as the traits "Bond to the Land" and "Terrain Stride".
+- Pax Terran (3 RP): Herds maintain relationships with the lands they roam that span thousands of years, and draw great power from their peace with its character. Minots gain a +2 dodge bonus to AC and can move through natural difficult terrain at their normal speed while in their home terrain type. For Yaken this type is Cold; for Elken it is Forest; for Boken it is Plains. This trait functions as the traits "Bond to the Land" and "Terrain Stride".
 - Stubborn (2 RP): +2 to Will against enchantment (charm or compulsion), and an additional saving throw 1 round into the effect to end it prematurely.
 - Eternal Hope (2 RP): +2 racial bonus on saving throws against fear and despair effects. Additionally, once per day you may reroll a natural 1.
 
