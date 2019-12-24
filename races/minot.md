@@ -45,6 +45,8 @@ Minots tend toward true neutrality, and to a lesser extent lawful good. Their me
 
 Minots recognize gods as beings but worship is generally reserved for the *Song*, the sound of the harmony of all the things in a place. The Song of a place can be harmonious or discordant, pronounced or subtle, elegant or brutal, and all of these are valid ways of being. Minots strive toward harmony, but it is not an individual's place to dictate a place to itself. The better part of this harmony comes from living in peace with the way of a place, not by imposing peace upon its Song. It is not the way for a herd to dam a river, but to find the gifts left by its flood.
 
+Minot myths tend to concern the events and dynamics that led to the different facets of a place's Song, from why animals fight or collaborate to how legendary individuals approached historical phenomena. A Song is composed of not only the physical elements of a place but also the spirits that suffuse it -- the spirits of rivers, lakes, mountains, groves, winds, dreams, and even sickness and death -- and so they feature heavily in myth as well.
+
 Minot clerics and other divine casters use ritually imbued trinkets from their herd as holy symbols, such as figurines and icons of mythic figures or events moulded from the finely-ground horns shed by friends and family. Gems and other stones found or traded under auspicious or significant circumstances are sometimes also used.
 
 ## Adventurers
