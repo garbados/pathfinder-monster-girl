@@ -2,7 +2,7 @@
 
 ## General Description
 
-Minots are tall, stocky taurine mammals, generally possessing two horns and a maine of hair. They eat grasses, leaves, and certain fruits and fungi. For eons herds of them have migrated with the seasons and with the changing of things, and today many kinds of Minots inhabit most parts of the globe. From the shaggy "Yaken" Minots that occupy unforgiving taigas to the gaunt "Elken" Minots who mind thick wild groves and the "Boken" Minots who patrol shimmering savannahs, diverse herds each have deep roots to where they roam.
+Minots are tall, stocky taurine mammals, generally possessing two horns and a mane of hair. They eat grasses, leaves, and certain fruits and fungi. For eons herds of them have migrated with the seasons and with the changing of things, and today many kinds of Minots inhabit most parts of the globe. From the shaggy "Yaken" Minots that occupy unforgiving taigas to the gaunt "Elken" Minots who mind thick wild groves and the "Boken" Minots who patrol shimmering savannahs, diverse herds each have deep roots to where they roam.
 
 They are strong and sturdy people, disposed to brevity and severity. Virtually any herd in stampede could destroy a town, even a city, but such events are rare if not entirely mythological. Herds are known to have a strong sense of guestright and fairness that makes them poor merchants but good comrades. A herd camping may arrange a bazaar of goods for trade, but a stranger would find no seller asking or giving a price. Each is owed what each requires, and for each all provide.
 
