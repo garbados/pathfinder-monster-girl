@@ -8,13 +8,14 @@ Characters:
 - [Dhutlo K'smani](./characters/dhutlo_varanidae.md): Gestalt oracle+brawler Varanidae based on [a different lizard](https://gist.github.com/garbados/fd74dd43ec2561e7d560a0e907880a0d). Haughty acolyte of B'xnamsa K'smani.
 - [Ibba, Travelling Healer](./characters/ibba.md): Gestalt cleric+ranger Minot working as a travelling healer.
 - [Kitch Kubi, Alchemist](./characters/kitch_kubi.md): Equal parts reckless and paranoid, a talented and ambitious alchemist.
-- [Kus-Kus, Trapper](./characters/kus_kus.md): Kobold trapper and bounty hunter who only works when she needs the money.
 - [Kus-Kus, Sniper](./characters/kus_kus_sniper.md): Kobold trapper, specializing in sniping from the shadows and luring enemies into vicious traps.
+- [Kus-Kus, Trapper](./characters/kus_kus.md): Kobold trapper and bounty hunter who only works when she needs the money.
 - [Mugris, Guide](./characters/mugris.md): Orcish guide versed in the countless passages of the underdark; disillusioned and betrayed, lays low.
 - [Mugris, Vanguard](./characters/mugris_vanguard.md): Orcish tactician working as a soldier-for-hire; disillusioned and betrayed, lays low.
+- [Norethe, Swarm Rogue](./characters/norethe.md): Friend of vermin and the eldritch alike, a conniving gestalt druid (swarm monger) and rogue.
+- [Norethe, Witch Rogue](./characters/norethe_witch.md): Impacted by the intangible machinations of an unknowable entity, Norethe sows discord for her amusement.
 - [Skivven Tamog](./characters/skivven_tamog.md): Paladin of the Order of the Light in the Deep.
 - [T'krasa Ekrisis](./characters/tkrasa_ekrisis.md): Captain of the Protector Syndicate among the Clan of the Tadpole. A dutiful, fearsome fighter. Rival of Dhutlo.
-- [Norethe, Swarm Rogue](./characters/norethe.md): Friend of vermin and the eldritch alike, a conniving gestalt druid (swarm monger) and rogue.
 - [Xe](./characters/xe_tamarini.md): Seeker of knowledge, teller of tales; a most cunning and bashful Tamarini.
 
 Races:
