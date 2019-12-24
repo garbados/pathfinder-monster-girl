@@ -41,9 +41,11 @@ Minots and Harps have a symbiotic relationship stretching into myth. The insects
 
 ## Alignment & Religion
 
-Minots tend toward true neutrality, and to a lesser extent lawful good. Their measured concerns and collective ways support a strong sense of law, but just as much those ways cultivate a deeply-held conscientiousness for others.
+Minots tend toward true neutrality, and to a lesser extent lawful good. Their measured concerns and collective ways support a strong sense of law and a deeply-held conscientiousness for others, but herd ways tend to promote adaptation and harmony over the assertion of individual will.
 
 Minots recognize gods as beings but worship is generally reserved for the *Song*, the sound of the harmony of all the things in a place. The Song of a place can be harmonious or discordant, pronounced or subtle, elegant or brutal, and all of these are valid ways of being. Minots strive toward harmony, but it is not an individual's place to dictate a place to itself. The better part of this harmony comes from living in peace with the way of a place, not by imposing peace upon its Song. It is not the way for a herd to dam a river, but to find the gifts left by its flood.
+
+Minot clerics and other divine casters use ritually imbued trinkets from their herd as holy symbols, such as figurines and icons of mythic figures or events moulded from the finely-ground horns shed by friends and family. Gems and other stones found or traded under auspicious or significant circumstances are sometimes also used.
 
 ## Adventurers
 
